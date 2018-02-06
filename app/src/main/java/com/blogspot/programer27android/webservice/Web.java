@@ -73,6 +73,7 @@ CardView fb,twitter,instagram,path,wa,telegram;
     }
 
     public void openPath() {
+
             startActivity(new Intent(Intent.ACTION_VIEW,
                     Uri.parse("https://path.com/profil/1Gxs2u")));
     }
