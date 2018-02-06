@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WebService</string>
+    <string name="fbkey">2049926225286887</string>
+    <string name="facebook">Facebook</string>
+    <string name="twitter">Twitter</string>
+    <string name="instagram">Instagram</string>
+    <string name="path">Path</string>
+    <string name="wa">Whatsapp</string>
+    <string name="telegram">Telegram</string>
+</resources>
